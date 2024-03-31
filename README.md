@@ -7,6 +7,9 @@ The portal integrates several features to address common issues faced by users, 
 ### Demo Video Link 
 https://drive.google.com/file/d/1UhKFrc7CxLdqUqeb85Ih-CKIbtjqH7vQ/view?usp=sharing
 
+### Website Link 
+https://avirat2211.github.io/IITBBS_GC_19_2PS2/
+
 # Features
 
 ## 1. Lost and Found
