@@ -1,4 +1,4 @@
-## 19_2
+## IITBBS_GC_19_2PS2
 # Campus Services Portal
 This software solution aims to provide a comprehensive set of services to the college faculty and students to improve their campus experience. 
 The portal integrates several features to address common issues faced by users, such as lost and found items, event information, food ordering, and more.
