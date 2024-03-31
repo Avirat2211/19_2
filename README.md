@@ -31,4 +31,4 @@ Features such as interactive maps, library management, queue management and more
 <br />
 
 # Technologies Used
-HTML, CSS, JavaScript, React.js for dynamic UI
+HTML, CSS, JavaScript
